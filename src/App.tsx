@@ -1,7 +1,9 @@
+import FlashCards from "./components/ui/flashCards";
+
 const App = () => {
   return (
     <>
-      <div>Flashcards</div>
+      <FlashCards />
     </>
   );
 };
